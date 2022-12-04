@@ -54,7 +54,7 @@ fruit2.hasOwnProperty();  // 안녕~
 
 
 
-
+afafasfasdfasfdsafffffffffffffffffffffff
 
 
 
